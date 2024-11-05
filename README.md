@@ -6,7 +6,7 @@
 ## 🚀 About Me
 - 💻 **Software Developer** exploring the worlds of **Golang** & **React Native**
 - 🌍 Passionate about **open-source**, **tech for good**, and building solutions with real impact
-- 🌱 Currently diving deeper into **React Native** with a **Bun backend** and enhancing my **frontend skills**
+- 🌱 Currently diving deeper into **React Native** with a **Go backend** and enhancing my **frontend skills**
 - 🔧 **Building:** a project on **load balancing with Docker** to optimize resource allocation and **scalability** for modern web apps 🚀
 
 ---
