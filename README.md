@@ -26,6 +26,7 @@
 - 📘 Studying: **Probability & Statistics** to sharpen my data edge
 
 ## 📈 Let's Connect
+- **Portfolio**: [edmond.engineer](https://edmond.engineer)
 - **GitHub**: [Nyamosiyego](https://github.com/Nyamosiyego)
 - **Email**: nyamosiyego@gmail.com  
 - 📫 Open to collaborations, projects, and any exciting opportunities!
