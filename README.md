@@ -14,7 +14,7 @@
 ## 🛠️ Tech Stack
 - **Languages**: JavaScript, TypeScript, Golang, Python  
 - **Frameworks**: React, Next.js, React Native  
-- **Other Tools**: Tailwind CSS, twrnc, Bun, and Docker 🐳
+- **Other Tools**: Tailwind CSS, Keras, Bun, and Docker 🐳
 
 ## 🌟 Current Projects
 - **Smart Load Balancer** ⚖️ – Optimizing web traffic handling and distribution using **Docker** and **container orchestration**
