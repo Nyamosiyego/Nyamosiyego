@@ -35,4 +35,5 @@
 ---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyamosiyego&layout=compact&theme=radical)
+![Edmond's GitHub Streak](https://streak-stats.demolab.com/?user=Nyamosiyego&theme=radical)
 
