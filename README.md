@@ -34,4 +34,5 @@
 
 ---
 
-[[![GitHub Trends SVG](https://api.githubtrends.io/Nyamosiyego/svg/avgupta456/langs)](https://githubtrends.io)](https://api.githubtrends.io/user/svg/Nyamosiyego/langs?time_range=one_year&theme=synthwaves)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyamosiyego&layout=compact&theme=radical)
+
